@@ -1,0 +1,1 @@
+default_config.knsv filter=lfs diff=lfs merge=lfs -text
