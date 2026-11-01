@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
     "editor.fontFamily": "'0xProto', monospace"
+    "workbench.sideBar.location": "right"
 }
